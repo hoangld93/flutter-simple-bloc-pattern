@@ -1,6 +1,7 @@
 # flutterblocrestapi
 
-A new Flutter application.
+Follow: https://medium.com/flutter-community/flutter-essential-what-you-need-to-know-567ad25dcd8f
+
 
 ## Getting Started
 
